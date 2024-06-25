@@ -18,7 +18,7 @@ const postSchema = new mongoose.Schema(
     image: {
       type: String,
       default:
-        'https://cdn.pixabay.com/photo/2021/06/11/00/38/yellow-6327251_1280.jpg',
+        'https://th.bing.com/th/id/OIP.Zi0g_br6W9wRpi0MpMdwGAHaES?w=1535&h=890&rs=1&pid=ImgDetMain',
     },
     category: {
       type: String,
